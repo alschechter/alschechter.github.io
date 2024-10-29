@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Research"}
-  - {file: "README.md", title: "About"}
+  - {file: "research.md", title: "Research"}
+  - {file: "about.md", title: "About"}
+  - {file: "CV_Sprint2022.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:aimee.schechter@colorado.edu"}
