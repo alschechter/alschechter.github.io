@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 I work with both cosmological simulations and observational data to study the role galaxy mergers play throughout cosmic time.
 
 I investigated star formation and black hole accretion in galaxy mergers in the IllustrisTNG50 simulation.
