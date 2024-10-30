@@ -1,4 +1,4 @@
-#    
+# Research
 
 ## I work with both cosmological simulations and observational data to study the role galaxy mergers play throughout cosmic time.
 
