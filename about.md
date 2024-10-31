@@ -1,6 +1,6 @@
 # About Me
 
-I grew up just outside of Boston, MA before attending college at the Unversity of Texas at Austin. I am currently based in Boulder, CO working on my PhD at CU Boulder's Astrophysical and Planetary Sciences Department with Prof. Julie Comerford. 
+I grew up just outside of Boston, MA before attending college at the Unversity of Texas at Austin where I majored in both Astronomy and Physics. I learned that I loved astronomy research working in Prof. Caitlin Casey's group. I am currently based in Boulder, CO working on my PhD in CU Boulder's Astrophysical and Planetary Sciences Department with Prof. Julie Comerford. 
 
 ![](UTgrad.jpeg)
 
