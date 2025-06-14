@@ -37,19 +37,7 @@ ol, ul {
 	list-style: none;
 }
 
-.image-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 1rem; /* optional: spacing between images */
-  margin-top: 2rem;
-}
 
-.image-grid img {
-  width: 48%;
-  height: auto;
-  margin-bottom: 1rem;
-  border-radius: 8px; /* optional: rounded corners */
 }
 
 blockquote, q {
@@ -1607,12 +1595,12 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 40%;
 		}
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 40%;
 		}
 
 		.image.left {
@@ -1632,7 +1620,7 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: 100%;
+			width: 40%;
 			margin: 0 0 2em 0;
 		}
 
