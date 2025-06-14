@@ -37,6 +37,21 @@ ol, ul {
 	list-style: none;
 }
 
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem; /* optional: spacing between images */
+  margin-top: 2rem;
+}
+
+.image-grid img {
+  width: 48%;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 8px; /* optional: rounded corners */
+}
+
 blockquote, q {
 	quotes: none;
 }
